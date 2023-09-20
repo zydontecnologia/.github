@@ -11,3 +11,8 @@
 **Backend**
 
 - [Backend Zydon Database](https://github.com/zydontecnologia/zydon-database)
+
+**Mobile**
+
+- [Aplicativo Portal](https://github.com/zydontecnologia/b2b_mobile)
+- [Certificados Aplicativos B2B](https://github.com/zydontecnologia/mobile_certificates)

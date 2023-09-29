@@ -27,6 +27,10 @@
 - [Backend Portal B2B](https://github.com/zydontecnologia/b2b-portal)
 - [Frontend Portal B2B](https://github.com/zydontecnologia/b2b-portal-react)
 
+**Testes**
+
+- [Cypress Portal B2B](https://github.com/zydontecnologia/b2b-cypress)
+
 **Devops**
 
 - [Provisionamento de Rede AWS](https://github.com/zydontecnologia/zydon-network-aws)

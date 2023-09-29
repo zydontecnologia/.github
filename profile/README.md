@@ -22,6 +22,11 @@
 - [Aplicativo Portal](https://github.com/zydontecnologia/b2b_mobile)
 - [Certificados Aplicativos B2B](https://github.com/zydontecnologia/mobile_certificates)
 
+**B2B Portal**
+
+- [Backend Portal B2B](https://github.com/zydontecnologia/b2b-portal)
+- [Frontend Portal B2B](https://github.com/zydontecnologia/b2b-portal-react)
+
 **Devops**
 
 - [Provisionamento de Rede AWS](https://github.com/zydontecnologia/zydon-network-aws)

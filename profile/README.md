@@ -10,7 +10,7 @@
 - [Frontend Admin Link](https://github.com/zydontecnologia/link-react)
 
 **Backend**
-
+- [Backend Zydon Auth](https://github.com/zydontecnologia/auth-admin)
 - [Backend Zydon Database](https://github.com/zydontecnologia/zydon-database)
 - [Backend Commons](https://github.com/zydontecnologia/commons)
 - [Backend Zydon Account](https://github.com/zydontecnologia/account-admin)

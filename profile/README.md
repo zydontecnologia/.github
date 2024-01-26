@@ -13,6 +13,7 @@
 - [Backend Commons](https://github.com/zydontecnologia/commons)
 - [Backend Zydon Auth](https://github.com/zydontecnologia/auth-admin)
 - [Backend Zydon Database](https://github.com/zydontecnologia/zydon-database)
+- [Backend Zydon Sales](https://github.com/zydontecnologia/zydon-sales)
 - [Backend Zydon Gateway](https://github.com/zydontecnologia/zydon-api-gateway)
 - [Backend Zydon Account](https://github.com/zydontecnologia/account-admin)
 - [Backend Zydon B2B](https://github.com/zydontecnologia/b2b-admin)

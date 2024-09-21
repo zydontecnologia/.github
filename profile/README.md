@@ -37,3 +37,4 @@
 
 - [Provisionamento de Rede AWS](https://github.com/zydontecnologia/zydon-network-aws)
 - [Provisionamento de Banco AWS](https://github.com/zydontecnologia/zydon-postgres-aws)
+- [Provisionamento do Opensearch AWS](https://github.com/zydontecnologia/zydon-opensearch-aws)

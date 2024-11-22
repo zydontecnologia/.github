@@ -17,7 +17,7 @@
 - [Backend Zydon Gateway](https://github.com/zydontecnologia/zydon-api-gateway)
 - [Backend Zydon Account](https://github.com/zydontecnologia/account-admin)
 - [Backend Zydon B2B](https://github.com/zydontecnologia/b2b-admin)
-- [Backend Zydon Link](https://github.com/zydontecnologia/link-admin)
+- [Backend Zydon Wallet](https://github.com/zydontecnologia/zydon-wallet)
 
 **Mobile**
 

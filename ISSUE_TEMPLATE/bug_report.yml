@@ -1,95 +1,36 @@
 name: "🐞 Bug Report"
-description: "Registre um bug seguindo o Doc de Descrição (QA)"
-title: "[Bug]: <título curto do problema>"
+description: "Relate um bug"
+title: "[Bug]: <título curto>"
 labels: ["bug"]
-# assignees: []  # opcional: defina responsáveis padrão
 body:
-  - type: input
-    id: titulo_curto
-    attributes:
-      label: 🎯 Título curto
-      description: "Descreva de forma objetiva o problema"
-      placeholder: "Ex.: Erro 500 ao finalizar pedido com cupom"
-    validations:
-      required: true
-
   - type: textarea
     id: ambiente
     attributes:
-      label: 🌐 Ambiente
-      description: "Onde o bug ocorreu e credenciais de teste (NÃO use senhas reais de produção)"
+      label: "🌐 Ambiente"
       placeholder: |
         Ambiente: Homologação
-        Usuário: marcelo.domingues@zydon.com.br
-        Senha: Zydon@123
+        Usuário: usuario@exemplo.com
         Organização: Provanza
     validations:
       required: true
-
   - type: textarea
     id: passos
     attributes:
-      label: 🪜 Passos para Reproduzir
-      description: "Liste os passos até o erro (1 por linha)"
+      label: "🪜 Passos para Reproduzir"
       placeholder: |
-        1) Logar como cliente X
-        2) Adicionar produto Y
-        3) Aplicar cupom TESTE10
-        4) Finalizar pedido
+        1) ...
+        2) ...
     validations:
       required: true
-
   - type: textarea
-    id: resultado_atual
+    id: atual
     attributes:
-      label: 📍 Resultado atual
-      description: "O que acontece hoje?"
-      placeholder: "Ex.: Sistema retorna erro 500 e pedido não é criado"
+      label: "📍 Resultado atual"
     validations:
       required: true
-
   - type: textarea
-    id: resultado_esperado
+    id: esperado
     attributes:
-      label: ✅ Resultado esperado
-      description: "O que deveria acontecer?"
-      placeholder: "Ex.: Pedido finalizado com status CONFIRMADO e cupom aplicado"
+      label: "✅ Resultado esperado"
     validations:
       required: true
-
-  - type: dropdown
-    id: impacto
-    attributes:
-      label: ⚠️ Impacto / Severidade
-      description: "Selecione a gravidade do problema"
-      options:
-        - "P0 - Crítico (impossibilita uso / impacto amplo)"
-        - "P1 - Alto (impacta fluxo principal)"
-        - "P2 - Médio (afeta parte do fluxo)"
-        - "P3 - Baixo (cosmético / texto / layout)"
-    validations:
-      required: true
-
-  - type: textarea
-    id: evidencia
-    attributes:
-      label: 📎 Evidência
-      description: "Anexe links/prints/vídeos/logs/IDs de pedido/usuário"
-      placeholder: |
-        - Print do erro
-        - Vídeo (Loom): https://loom.com/share/xxxx
-        - Log do pedido: ID=874152
-    validations:
-      required: false
-
-  - type: textarea
-    id: observacoes
-    attributes:
-      label: 🗒️ Observações adicionais
-      description: "Informações úteis (ex.: frequência, clientes afetados, regressão de versão)"
-      placeholder: |
-        Frequência: Ocorre em 3/10 tentativas
-        Clientes afetados: Provanza, Ceasa
-        Versão: v2.14.3
-    validations:
-      required: false

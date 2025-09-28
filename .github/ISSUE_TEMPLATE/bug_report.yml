@@ -1,5 +1,5 @@
 name: "🐞 Registrar BUG"
-description: "Descreva detalhes do BUG"
+description: "Relatar um novo bug ao time técnico"
 title: "[Bug]: <título curto do problema>"
 # sem labels automáticos (o usuário escolhe)
 body:

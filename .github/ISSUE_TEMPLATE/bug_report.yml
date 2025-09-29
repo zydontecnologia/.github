@@ -7,7 +7,7 @@ body:
     id: ambiente
     attributes:
       label: "## 🌐 Ambiente"
-      description: "Informe ambiente e credenciais de teste (NÃO use senhas reais de produção)"
+      description: "Informe ambiente e credenciais (Ideal que seja criado 1 para o ticket)"
       placeholder: |
         Ambiente: Homologação
         Usuário: marcelo.domingues@zydon.com.br

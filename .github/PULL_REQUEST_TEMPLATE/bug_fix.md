@@ -13,4 +13,5 @@
 
 ## 📎 Evidência e observações
 
+----
 Issue: #<número>  <!-- ou use "Fixes #<número>" para fechar ao merge -->

@@ -9,11 +9,6 @@ Marque **apenas um**:
 ## 📝 Resumo (1–2 linhas, linguagem simples)
 <!-- Ex.: Corrige erro 500 ao aplicar cupom inválido / Implementa CRUD de cupons no admin -->
 
-## 🔎 Contexto
-<!-- Se for Bugfix: POR QUE acontecia. Se for Feature: objetivo/valor para o usuário -->
-<!-- Ex. Bugfix: Exceção quando cupom era nulo -->
-<!-- Ex. Feature: Usuário pode criar/editar/excluir cupons no admin -->
-
 ## 🔧 Solução Aplicada
 <!-- Descreva objetivamente a correção/implementação sem afundar em classe/método -->
 
@@ -34,4 +29,4 @@ Marque **apenas um**:
 - [ ] Afeta outros serviços/módulos
 
 ----
-Issue: #<número>  <!-- ou use "Fixes #<número>" para fechar ao merge -->
+Fixes #<número>

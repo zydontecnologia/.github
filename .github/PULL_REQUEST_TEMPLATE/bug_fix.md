@@ -5,8 +5,11 @@
 
 
 ## ✅ Testes e validações
-- [ ] Teste manual
-- [ ] Teste de regressão
+- [ ] Reproduzi o bug
+- [ ] Correção validada manualmente
+- [ ] Criei/atualizei teste de regressão
+- [ ] Atualizei a issue com causa/solução/evidências
+- [ ] PR vinculado à issue (ex.: `Fixes #123`)
 
 ## 📎 Evidência e observações
 

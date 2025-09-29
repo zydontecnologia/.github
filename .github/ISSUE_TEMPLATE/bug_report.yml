@@ -1,14 +1,12 @@
 name: "🐞 Registrar Bug"
 description: "Relatar um novo bug ao time técnico"
-title: "[Bug]: <título curto do problema>"
-# sem labels automáticos (o usuário escolhe)
 body:
   - type: textarea
     id: ambiente
     attributes:
       label: "## 🌐 Ambiente"
       description: "Informe ambiente e credenciais (Ideal que seja criado 1 para o ticket)"
-      placeholder: |
+      value: |
         Ambiente: Homologação
         Usuário: marcelo.domingues@zydon.com.br
         Senha: Zydon@123

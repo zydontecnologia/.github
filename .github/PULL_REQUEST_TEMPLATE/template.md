@@ -20,13 +20,9 @@ Marque **apenas um**:
 ## ✅ Testes e validações
 - [ ] Reproduzi o bug (se aplicável)
 - [ ] Validação manual do fluxo
-- [ ] Teste de regressão criado/atualizado (unit/integration/api/e2e)
-- [ ] Atualizei a issue com causa/solução/evidências
+- [ ] Teste criado/atualizado (unit/integration/api/e2e)
+- [ ] Cumpri com todas as necessidades da task
 - [ ] PR vinculado à issue (ex.: `Fixes #123`)
-
-<!-- (Opcional) detalhe principal -->
-**Principal teste/arquivo**: `...`
-**Status CI**: ✅/❌ (link do pipeline)
 
 ## 📎 Evidência e observações
 

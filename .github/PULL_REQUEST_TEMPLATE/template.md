@@ -17,7 +17,7 @@ Marque **apenas um**:
 - [ ] Validação manual do fluxo
 - [ ] Teste criado/atualizado (unit/integration/api/e2e)
 - [ ] Cumpri com todas as necessidades da task
-- [ ] PR vinculado à issue (ex.: `Fixes #123`)
+- [ ] PR vinculado à issue (ex.: `Ref #123`)
 
 ## 📎 Evidência e observações
 
@@ -29,4 +29,4 @@ Marque **apenas um**:
 - [ ] Afeta outros serviços/módulos
 
 ----
-Fixes #<número>
+Ref #<número>
